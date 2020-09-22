@@ -1,0 +1,48 @@
+{
+  "name": "M5Stack Basic",
+  "manufacturer": "M5Stack",
+  "buttons": [
+    {
+      "name": "btn_a",
+      "gpio": 26
+    },
+    {
+      "name": "btn_b",
+      "gpio": 1
+    },
+    {
+      "name": "btn_c",
+      "gpio": 2
+    }
+  ],
+  "leds": [
+    {
+      "name": "activity_led",
+      "gpio": 27
+    },
+    {
+      "name": "status_led",
+      "gpio": 2
+    }
+  ],
+  "inputs": [
+    {
+      "name": "input_voltage",
+      "gpio": 35
+    }
+  ],
+  "modules": [
+    {
+      "name": "modbus_rtu",
+      "gpio_map": {
+        "rx": 16,
+        "tx": 17,
+        "dere": 4
+      }
+    },
+    {
+      "name": "display",
+      "gpio_map": {}
+    }
+  ]
+}
