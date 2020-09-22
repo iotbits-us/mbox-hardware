@@ -1,0 +1,42 @@
+[
+  {
+    "model": "MB-A101",
+    "max_slv": 1,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-iotbits.json"
+  },
+  {
+    "model": "MB-A102",
+    "max_slv": 2,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-iotbits.json"
+  },
+  {
+    "model": "MB-A103",
+    "max_slv": 3,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-iotbits.json"
+  },
+  {
+    "model": "MB-A104",
+    "max_slv": 4,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-iotbits.json"
+  },
+  {
+    "model": "MB-B101",
+    "max_slv": 1,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-m5stack.json"
+  },
+  {
+    "model": "MB-B102",
+    "max_slv": 2,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-m5stack.json"
+  },
+  {
+    "model": "MB-B103",
+    "max_slv": 3,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-m5stack.json"
+  },
+  {
+    "model": "MB-B104",
+    "max_slv": 4,
+    "board_file": "https://raw.githubusercontent.com/iotbits-us/mbox-hardware/master/mbox-board-m5stack.json"
+  }
+]
